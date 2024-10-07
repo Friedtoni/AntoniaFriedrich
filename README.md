@@ -1,6 +1,6 @@
 *Erstellt für das Seminar Theorie und Praxis der Netzwerkmethode*
 
-von Antonia Friedrich, Universität Stuttgart, M.A. Digital Humanities
+*von Antonia Friedrich, Universität Stuttgart, M.A. Digital Humanities*
 
 Römische Kaiserinschriften in Germanien - eine historische Netzwerkanalyse
 
