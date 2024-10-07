@@ -1,14 +1,14 @@
-*Erstellt für das Seminar Theorie und Praxis der Netzwerkmethode*
+# Römische Kaiserinschriften in Germanien - eine historische Netzwerkanalyse #
+
+*Erstellt für das Seminar „Die Methode der Netzwerkanalyse in Theorie und Praxis“*
 
 *von Antonia Friedrich, Universität Stuttgart, M.A. Digital Humanities*
-
-Römische Kaiserinschriften in Germanien - eine historische Netzwerkanalyse
 
 Idee des Netzwerks sollte eine Visualisierung römischer Inschriftenfunde mit ihren im Text genannten Kaisern oder den der Datierung entprechenden zuzuordneten Kaisern sein. Dabei sollte die römische Herrschaft im Gebiet der germanischen Provinzen und entlang des Grenzflusses Rhein betrachtet werden.
 
 Hierfür wurden auf die Inschriftendaten aus der Epigraphischen Datenbank Clauss/Slaby (EDCS) zurückgegriffen: https://db.edcs.eu/epigr/epi.php?s_sprache=de
 
-Alle Inschrifteneinträge in der Datenbank zu den römischen Provinzen konnten für die Seminararbeit nicht verwendet werden, daher wurde mit den Filtereigenschaften "Provinz: Germania superior" und "Germania inferior", "Material: lapis" sowie dem "Kommentar: et;Augusti/Augustae" die Suche in der Datenbank eingerenzt.
+Alle Inschrifteneinträge in der Datenbank zu den römischen Provinzen konnten für die Seminararbeit nicht verwendet werden, daher wurde mit den Filtereigenschaften "Provinz: Germania superior" und "Germania inferior", "Material: lapis" sowie mit "Inschriftengattung/Personenstatus: et;Augusti/Augustae" die Suche in der Datenbank eingerenzt.
 
 Für die Provinz Germania superior wurden insgesamt 219 Inschrifteneinträge zu Augusti/Augustae auf Stein gefunden, für die Provinz Germania inferior waren es 96 Einträge. Diese wurden manuell in eine Excel-Tabelle übertragen und gesammelt, bevor Einträge mit ungenauen Datierungen oder Textinhalten sowie einem fehlendem Fundort aufgrund der Fragestellung der Netzwerkanalyse aussortiert wurden. 
 Des Weiteren wurden die zugehörigen Kaiser, falls nicht in der EDCS im Inschriftentext erkennbar, auf der Seite der Epigraphischen Datenbank Heidelberg oder der Römischen Kaisertabelle von Dietmar Kienast et al. recherchiert.
