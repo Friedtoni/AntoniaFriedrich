@@ -4,9 +4,9 @@
 
 *von Antonia Friedrich, Universität Stuttgart, M.A. Digital Humanities*
 
-Idee des Netzwerks sollte eine Visualisierung römischer Inschriftenfunde mit ihren im Text genannten Kaisern oder den der Datierung entprechenden zuzuordneten Kaisern sein. Dabei sollte die römische Herrschaft im Gebiet der germanischen Provinzen und entlang des Grenzflusses Rhein betrachtet werden.
+Die Idee des Netzwerks sollte eine Visualisierung von römischen Inschriftenfunden mit ihren im Text genannten oder der Datierung nach entprechenden zuzuordneten Kaisern sein. Dabei sollte die römische Herrschaft im Gebiet der germanischen Provinzen und entlang des Grenzflusses Rhein betrachtet werden.
 
-Hierfür wurden auf die Inschriftendaten aus der Epigraphischen Datenbank Clauss/Slaby (EDCS) zurückgegriffen: https://db.edcs.eu/epigr/epi.php?s_sprache=de
+Hierfür wurde auf die Inschriftendaten aus der Epigraphischen Datenbank Clauss/Slaby (EDCS) zurückgegriffen: https://db.edcs.eu/epigr/epi.php?s_sprache=de
 
 Alle Inschrifteneinträge in der Datenbank zu den römischen Provinzen konnten für die Seminararbeit nicht verwendet werden, daher wurde mit den Filtereigenschaften "Provinz: Germania superior" und "Germania inferior", "Material: lapis" sowie mit "Inschriftengattung/Personenstatus: et;Augusti/Augustae" die Suche in der Datenbank eingerenzt.
 
